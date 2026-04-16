@@ -56,6 +56,15 @@ visiontrack-object-detection/
 
 ---
 
+## 📈 Sample Detection Output
+
+| Object Class | Count |
+|-------------|------|
+| Person      | 2    |
+| Backpack    | 1    |
+
+---
+
 ## Future Improvements
 
 * Line-crossing object counting
